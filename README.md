@@ -72,13 +72,7 @@
 
 # 🏆 GitHub Trophies  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zerihuntegenu&theme=radical&no-frame=true&row=1&column=6)  
-
----
-
-# 🐍 Contribution Graph  
-
-![Snake animation](https://github.com/zerihuntegenu/zerihuntegenu/blob/output/github-contribution-grid-snake.svg)  
+![trophy](https://github-profile-trophy.vercel.app/?username=zerihuntegenu&theme=radical&no-frame=true&row=1&column=3)  
 
 ---
 
