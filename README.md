@@ -64,7 +64,6 @@
 
 # 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihuntegenu&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zerihuntegenu&theme=radical&hide_border=true)  
 
 ---
