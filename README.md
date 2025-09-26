@@ -1,4 +1,4 @@
-**👋 Hi, I’m Zerihun Tegenu**
+# 👋 Hi, I’m Zerihun Tegenu
 # 👨‍💻 About Me  
 💻 **Senior Frontend Developer** | 🚀 Passionate about scalable web apps | 🎨 UI/UX Enthusiast  
 
