@@ -1,4 +1,4 @@
-## Hi there 👋  
+##👋 Hi, I’m Zerihun Tegenu  
 # 👨‍💻 About Me  
 💻 **Senior Frontend Developer** | 🚀 Passionate about scalable web apps | 🎨 UI/UX Enthusiast  
 
@@ -10,10 +10,10 @@
 
 # 🚀 Experience Highlights  
 
-- 🏦 Built **Dashen Bank Internet Banking Platform** (Next.js + Tailwind)  
-- 🛒 Developed **70+ e-commerce mini-apps**, 5+ donation platforms, and 4+ big-event apps for a **Bank Super App**  
-- 📱 Published a **mobile app with 10K+ downloads** and ⭐4.9 rating  
-- 🎯 Skilled in **Next.js, TypeScript, React Native, Laravel, AWS, UI/UX design**  
+ 🏦 Built **Dashen Bank Internet Banking Platform** (Next.js + Tailwind)  
+ 🛒 Developed **70+ e-commerce mini-apps**, 5+ donation platforms, and 4+ big-event apps for a **Bank Super App**  
+ 📱 Published a **mobile app with 10K+ downloads** and ⭐4.9 rating  
+ 🎯 Skilled in **Next.js, TypeScript, React Native, Laravel, AWS, UI/UX design**  
 
 ---
 
@@ -64,7 +64,6 @@
 
 # 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerihuntegenu&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihuntegenu&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zerihuntegenu&theme=radical&hide_border=true)  
 
