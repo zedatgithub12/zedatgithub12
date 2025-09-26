@@ -79,6 +79,6 @@
 
 💼 [Portfolio](https://zerihun-portifolio.vercel.app/)  
 💌 [Email Me](mailto:zerihuntegenu5@gmail.com)  
-💻 [LinkedIn](#) (add your link here!)  
+💻 [LinkedIn](#) (https://www.linkedin.com/in/zerihuntegenu)  
 
 ✨ *"Code is not just about solving problems — it’s about creating experiences that matter."* ✨  
