@@ -56,9 +56,9 @@
 
 # 🎓 Certifications  
 
-- ✅ Google **UI/UX Design** (2022)  
-- ✅ Google **Agile Project Management** (2022)  
-- ✅ AWS **Cloud Essentials** (2024)  
+✅ Google **UI/UX Design** (2022)  
+✅ Google **Agile Project Management** (2022)  
+✅ AWS **Cloud Essentials** (2024)  
 
 ---
 
